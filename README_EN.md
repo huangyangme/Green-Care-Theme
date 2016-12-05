@@ -1,5 +1,7 @@
 # Green-Care-Theme
 
+![](img/2.jpg)
+
 A Green Care Theme for Sublime Text. Comfortable to your eyes.
 
 ## Easy installation
