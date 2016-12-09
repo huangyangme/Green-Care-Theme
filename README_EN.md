@@ -13,8 +13,8 @@ You can install this awesome color scheme through the Package Control.
 
 ## Manual installation
 
-1. Download the latest release, extract and rename the directory to "GreenCareTheme".
-2. Move the directory inside your sublime `Packages` directory. **(Preferences > Browse packages...)**
+1. Click the **Preferences > Browse Packages…** menu
+2. Move the directory "GreenCareTheme" inside this directory
 
 ## Usage
 
